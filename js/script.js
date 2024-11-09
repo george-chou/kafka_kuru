@@ -11,10 +11,10 @@ let CACHES = {
             "repository-desc": "GitHub 仓库"
         },
         audioList: [
-            "audio/cn/beng_cn.mp3",
-            "audio/cn/beng_jp.mp3",
-            "audio/cn/beng_kr.mp3",
-            "audio/cn/beng_en.mp3"
+            "audio/beng_cn.mp3",
+            "audio/beng_jp.mp3",
+            "audio/beng_kr.mp3",
+            "audio/beng_en.mp3"
         ],
         cardImage: "img/card_cn.png"
     },
