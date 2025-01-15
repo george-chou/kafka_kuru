@@ -1,4 +1,4 @@
-﻿<h>Kafka Kuru | 卡芙卡转圈圈 | カフカクルへ</h>
+﻿<h1>Kafka Kuru | 卡芙卡转圈圈 | カフカクルへ</h1>
 
 [![license](https://img.shields.io/badge/license-CC_BY_NC_SA-74c853.svg)](https://github.com/Genius-Society/kafka-kuru/blob/web/LICENSE)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b8dcf387-d382-44e6-912c-058f2fe01b6c/deploy-status)](https://kafka-kuru.netlify.app)
